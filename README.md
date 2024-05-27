@@ -1,6 +1,6 @@
 # React calculator assignment
 
-## Descirption
+## Description
 
 The codebase contains minimal setup for a calculator. There are:
 
@@ -9,3 +9,7 @@ The codebase contains minimal setup for a calculator. There are:
 
 - useCalculator.js hook
   You will need to use and update useCalculator hook for logic building
+
+## Tasks
+1. Implement logic for addition and division
+2. Implement logic for handling floating point numbers
